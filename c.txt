@@ -1,5 +1,3 @@
 ok
 verificação de log
 ok ok
-ok ok
-ok ok

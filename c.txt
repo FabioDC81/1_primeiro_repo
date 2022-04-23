@@ -1,2 +1,3 @@
 ok
 verificação de log
+ok ok
